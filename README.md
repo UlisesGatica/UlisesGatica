@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Ulises Gatica" />
+  <img src="https://raw.githubusercontent.com/ulisesgatica/ulisesgatica/master/name.svg" alt="Ulises Gatica" />
 </h1>
 
 ## Hey! 👋
