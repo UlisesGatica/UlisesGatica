@@ -4,19 +4,20 @@
 
 ## Hey! 👋
 I'm Ulises, a 20 years old web developer from Saint George Utah.
-
-
+💻 Full-stack web developer with a particular interest in front-end development and UX/UI
+👯 Open to collaboration on anything Javascript related.
+🤗 Passions: Music 🎧 Snowboarding ⛷ Hiking 🥾 Lifting 🏋🏿‍♂️
+📝  If you would like to view my Resume, please reach out to me on <a href="https://www.linkedin.com/in/ulises-gatica/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 
 ## Skills
-- ⚙️ React.js, Redux, Hooks, Context API, Cypress,
-   Yum, Jest, Axios, JavaScript, HTML, CSS,
-   Node.js, Express, SQL, PostgreSQL, Git CLI,
-   GitHub, VS Code, Heroku, Postman
+- Front End: React.js, Redux, Hooks, Context API, Cypress, Yum, Jest, Axios, JavaScript, HTML, CSS,
+
+- Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Heroku, Postman
 
 
-## Contact
+<!-- ## Contact
 
 - https://www.linkedin.com/in/ulises-gatica/ 
 
-
+ -->
