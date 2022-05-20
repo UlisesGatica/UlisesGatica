@@ -3,41 +3,20 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm Ulises, a 20 years old web developer from Saint George Utah.
 
 
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- ⚙️ React.js, Redux, Hooks, Context API, Cypress,
+   Yum, Jest, Axios, JavaScript, HTML, CSS,
+   Node.js, Express, SQL, PostgreSQL, Git CLI,
+   GitHub, VS Code, Heroku, Postman
+
 
 ## Contact
 
+- https://www.linkedin.com/in/ulises-gatica/ 
 
 
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**UlisesGatica/UlisesGatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
