@@ -15,4 +15,3 @@ I'm Ulises, a 20 years old web developer from Saint George Utah.
 - Front End: React.js, Redux, Hooks, Context API, Cypress, Yum, Jest, Axios, JavaScript, HTML, CSS,
 
 - Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Heroku, Postman
-
