@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Ulises, a 21 year old web developer from Saint George Utah.
+I'm Ulises, a 22 year old web developer from Saint George Utah.
 
 - 💻 Full-stack web developer with a particular interest in front-end development and UX/UI
 - 👯 Open to collaboration on anything Javascript related.
